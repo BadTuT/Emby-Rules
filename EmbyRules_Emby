@@ -1,0 +1,11 @@
+# NAME: EmbyRules_Emby
+# AUTHOR: TuT
+# DATE: 2026-04-04 12:00:00
+
+payload:
+  # 域名分流规则
+  - DOMAIN-KEYWORD,gm.yezi.my
+  - DOMAIN-KEYWORD,emby.wenjian.de
+  - DOMAIN-KEYWORD,emby.nebula-media.org
+  - DOMAIN-KEYWORD,lite.saturdayvideo.top
+  - DOMAIN-KEYWORD,lite.cn2gias.uk
