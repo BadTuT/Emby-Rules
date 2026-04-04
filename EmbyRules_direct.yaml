@@ -1,0 +1,15 @@
+# NAME: EmbyRules_direct
+# AUTHOR: TuT
+# DATE: 2026-04-04 12:00:00
+
+payload:
+  # 域名分流规则
+  - DOMAIN-KEYWORD,snowymoon.io,DIRECT
+  - DOMAIN-SUFFIX,api.immtel.co,DIRECT
+  - DOMAIN-SUFFIX,cdnemby.t21w2.cn,DIRECT
+  - DOMAIN-SUFFIX,media.emos.club,DIRECT
+  - DOMAIN-SUFFIX,emos.dirige.de5.net,DIRECT
+  - DOMAIN-KEYWORD,fast-1.staryuki.me.kiven.cc,DIRECT
+  - DOMAIN-KEYWORD,c2.staryuki.me,DIRECT
+  - DOMAIN-KEYWORD,ch.feiyue.lol,DIRECT
+
