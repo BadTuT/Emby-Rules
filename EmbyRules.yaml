@@ -1,0 +1,20 @@
+# NAME: EmbyRules
+# AUTHOR: YourName
+# REPO: https://github.com/YourUsername/YourRepo
+# DATE: 2026-04-04 12:00:00
+
+payload:
+  # 域名分流规则
+  - DOMAIN-KEYWORD,snowymoon.io,DIRECT
+  - DOMAIN-KEYWORD,lite.cn2gias.uk,Emby
+  - DOMAIN-KEYWORD,fast-1.staryuki.me.kiven.cc,DIRECT
+  - DOMAIN-KEYWORD,c2.staryuki.me,DIRECT
+  - DOMAIN-KEYWORD,gm.yezi.my,Emby
+  - DOMAIN-KEYWORD,ch.feiyue.lol,DIRECT
+  - DOMAIN-KEYWORD,emby.wenjian.de,Emby
+  - DOMAIN-KEYWORD,emby.nebula-media.org,Emby
+  - DOMAIN-KEYWORD,lite.saturdayvideo.top,Emby
+  - DOMAIN-SUFFIX,api.immtel.co,DIRECT
+  - DOMAIN-SUFFIX,cdnemby.t21w2.cn,DIRECT
+  - DOMAIN-SUFFIX,media.emos.club,DIRECT
+  - DOMAIN-SUFFIX,emos.dirige.de5.net,DIRECT
