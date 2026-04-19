@@ -1,6 +1,6 @@
 # NAME: EmbyRules_direct
 # AUTHOR: TuT
-# DATE: 2026-04-04 12:00:00
+# DATE: 2026-04-19 19:00:00
 
 payload:
   # 域名分流规则
@@ -12,4 +12,4 @@ payload:
   - DOMAIN-KEYWORD,fast-1.staryuki.me.kiven.cc
   - DOMAIN-KEYWORD,c2.staryuki.me
   - DOMAIN-KEYWORD,ch.feiyue.lol
-
+  - DOMAIN-KEYWORD,a.eoos.top
