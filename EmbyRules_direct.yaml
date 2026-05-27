@@ -21,3 +21,5 @@ payload:
   - DOMAIN-KEYWORD,lyj.ysz.dpdns.org
   - DOMAIN-KEYWORD,cf.cinetrail.live
   - DOMAIN-KEYWORD,yusen.cyou
+  - IP-CIDR,51.83.100.187/32,no-resolve
+  - DOMAIN-KEYWORD,lunarisvault
