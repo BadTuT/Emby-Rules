@@ -4,13 +4,13 @@
 
 payload:
   # 域名分流规则
-  - DOMAIN-KEYWORD,gm.yezi.my
-  - DOMAIN-KEYWORD,emby.wenjian.de
-  - DOMAIN-KEYWORD,emby.nebula-media.org
-  - DOMAIN-KEYWORD,lite.saturdayent.top
-  - DOMAIN-KEYWORD,lite.cn2gias.uk
-  - DOMAIN-KEYWORD,cflocal.xxlb.net
-  - DOMAIN-KEYWORD,ncdn1.sntp.uk
+  - DOMAIN-SUFFIX,gm.yezi.my
+  - DOMAIN-SUFFIX,emby.wenjian.de
+  - DOMAIN-SUFFIX,emby.nebula-media.org
+  - DOMAIN-SUFFIX,lite.saturdayent.top
+  - DOMAIN-SUFFIX,lite.cn2gias.uk
+  - DOMAIN-SUFFIX,cflocal.xxlb.net
+  - DOMAIN-SUFFIX,ncdn1.sntp.uk
   - DOMAIN-KEYWORD,play.chilledmelon
-  - DOMAIN-KEYWORD,n150.asia
-  - DOMAIN-KEYWORD,cf.aixj.de
+  - DOMAIN-SUFFIX,n150.asia
+  - DOMAIN-SUFFIX,cf.aixj.de
