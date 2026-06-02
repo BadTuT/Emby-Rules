@@ -3,19 +3,19 @@
 # Updated: 2026-04-04 20:33:18
 # Format: Loon domain list
 
-DOMAIN-KEYWORD,fast-1.staryuki.me.kiven.cc
-DOMAIN-KEYWORD,c2.staryuki.me
-DOMAIN-KEYWORD,ch.feiyue.lol
+DOMAIN-SUFFIX,fast-1.staryuki.me.kiven.cc
+DOMAIN-SUFFIX,c2.staryuki.me
+DOMAIN-SUFFIX,ch.feiyue.lol
 DOMAIN,ad.auroramedia.vip
 DOMAIN-KEYWORD,eoos
 DOMAIN-KEYWORD,sub1.sntp.me
 DOMAIN-KEYWORD,a.mooguu.top
-DOMAIN-KEYWORD,tut.bestut.ccwu.cc
+DOMAIN-SUFFIX,tut.bestut.ccwu.cc
 DOMAIN-KEYWORD,sadchicktv.com
 DOMAIN-KEYWORD,605305.xyz
 DOMAIN-KEYWORD,lyj.ysz.dpdns.org
 DOMAIN-KEYWORD,cf.cinetrail.live
-DOMAIN-KEYWORD,yusen.cyou
-IP-CIDR,51.83.100.187/32,no-resolve
+DOMAIN-SUFFIX,yusen.cyou
+IP-CIDR,51.83.100.187/32
 DOMAIN-KEYWORD,lunarisvault
 DOMAIN,dayimakk.sharepoint.cn
