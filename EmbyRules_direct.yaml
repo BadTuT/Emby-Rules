@@ -4,23 +4,23 @@
 
 payload:
   # 域名分流规则
-  - DOMAIN-KEYWORD,snowymoon.io
+  - DOMAIN-SUFFIX,snowymoon.io
   - DOMAIN-SUFFIX,api.immtel.co
   - DOMAIN-SUFFIX,cdnemby.t21w2.cn
   - DOMAIN-SUFFIX,media.emos.club
   - DOMAIN-SUFFIX,emos.dirige.de5.net
-  - DOMAIN-KEYWORD,fast-1.staryuki.me.kiven.cc
-  - DOMAIN-KEYWORD,c2.staryuki.me
-  - DOMAIN-KEYWORD,ch.feiyue.lol
+  - DOMAIN-SUFFIX,fast-1.staryuki.me.kiven.cc
+  - DOMAIN-SUFFIX,c2.staryuki.me
+  - DOMAIN-SUFFIX,ch.feiyue.lol
   - DOMAIN-KEYWORD,eoos
   - DOMAIN-KEYWORD,sub1.sntp.me
   - DOMAIN-KEYWORD,a.mooguu.top
-  - DOMAIN-KEYWORD,tut.bestut.ccwu.cc 
+  - DOMAIN-SUFFIX,tut.bestut.ccwu.cc
   - DOMAIN-KEYWORD,sadchicktv.com
   - DOMAIN-KEYWORD,605305.xyz
   - DOMAIN-KEYWORD,lyj.ysz.dpdns.org
   - DOMAIN-KEYWORD,cf.cinetrail.live
-  - DOMAIN-KEYWORD,yusen.cyou
+  - DOMAIN-SUFFIX,yusen.cyou
   - IP-CIDR,51.83.100.187/32,no-resolve
   - DOMAIN-KEYWORD,lunarisvault
   - DOMAIN-SUFFIX,dayimakk.sharepoint.cn
