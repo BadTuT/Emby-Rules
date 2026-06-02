@@ -3,16 +3,16 @@
 # Updated: 2026-04-04 20:33:18
 # Format: Loon domain list
 
-DOMAIN-KEYWORD,lite.cn2gias.uk
+DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-KEYWORD,wp.lyezi.cc
-DOMAIN-KEYWORD,lite.saturdayent.top
-DOMAIN-KEYWORD,emby.wenjian.de
-DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,lite.saturdayent.top
+DOMAIN-SUFFIX,emby.wenjian.de
+DOMAIN,dayimakk.sharepoint.cn
 DOMAIN,alist7.eu.org
-DOMAIN-KEYWORD,emby.nebula-media.org
+DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN,dpxemby.xyz
-DOMAIN-KEYWORD,cflocal.xxlb.net
-DOMAIN-KEYWORD,ncdn1.sntp.uk
+DOMAIN-SUFFIX,cflocal.xxlb.net
+DOMAIN-SUFFIX,ncdn1.sntp.uk
 DOMAIN-KEYWORD,play.chilledmelon
-DOMAIN-KEYWORD,cf.aixj.de
-DOMAIN-KEYWORD,n150.asia
+DOMAIN-SUFFIX,cf.aixj.de
+DOMAIN-SUFFIX,n150.asia
